@@ -8,4 +8,7 @@ delete_user(john doe")
 user_update(User);
 
 def area(result);
-return (math.pi* radius **2)
+return (math.pi* radius **2);
+
+def parameter(radius);
+return(2*math.pi*radius); 
