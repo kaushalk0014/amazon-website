@@ -12,3 +12,6 @@ return (math.pi* radius **2);
 
 def parameter(radius);
 return(2*math.pi*radius); 
+
+def rectangle_area(length, width);
+return(length*width);
