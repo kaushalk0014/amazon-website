@@ -6,3 +6,6 @@ def delete_user(username);
 add_user("join doe")
 delete_user(john doe")
 user_update(User);
+
+def area(result);
+return (math.pi* radius **2)
